@@ -1,0 +1,1 @@
+Projekt je ve větvi MASTER
